@@ -1,0 +1,97 @@
+Price,Property_type,locality,Bed_rooms,Bath_rooms,Area
+289,House,"Guido Gezellestraat 32, 8870 Emelgem",4 beds,1 bath,222m2
+342,Industrial,"Striemenbergstraat 11, 9040 Sint-Amandsberg",0,0,222m2
+494,House,"Woestijnegoedlaan 5, 9032 Wondelgem",4 beds,1 bath,222m2
+415,House,"Drongensesteenweg 44, 9000 Gent",4 beds,1 bath,222m2
+465,House,"Montevalstraat 12, 8700 Tielt",4 beds,1 bath,0
+580,Land,"Tuimelaar 7, 9930 Zomergem",0,0,0
+580,House,"Tuimelaar 7, 9930 Zomergem",4 beds,1 bath,0
+175,House,"Rollegemstraat 236, 8880 Rollegem-Kapelle",4 beds,1 bath,222m2
+180,Flat,"Leopold i esplanade 7, 8660 De Panne",4 beds,0,0
+269,House,"Gulden sporenstraat 25, 9900 Eeklo",4 beds,1 bath,222m2
+245,Land,"Middelheersestraat 42, 3870 Heers",0,0,0
+298,House,"Bakkerstraat 58, 9240 Zele",4 beds,1 bath,222m2
+225,House,"Harmoniestraat 8, 9050 Ledeberg",4 beds,1 bath,222m2
+238,House,"Rode kruislaan 168, 3740 Grote-Spouwen",4 beds,1 bath,222m2
+475,House,"Hanepad 11, 2960 Brecht",4 beds,1 bath,222m2
+625,House,1325 Chaumont-Gistoux,4 beds,1 bath,222m2
+810,Investment,"Rue du centre 5, 4257 Berloz",4 beds,1 bath,222m2
+425,House,"Huisgaverstraat 26, 9750 Ouwegem",4 beds,1 bath,0
+268,House,"Winkelomstraat 35 A, 3740 Eigenbilzen",4 beds,1 bath,222m2
+312,house,"Hoekstraat, 3740 Beverst",4 beds,0,222m2
+235,House,"Kachtemsestraat 78, 8800 Roeselare",4 beds,1 bath,222m2
+339,House,"Kalvariebergstraat 16, 2440 Geel",4 beds,1 bath,222m2
+349,Flat,"Dorpsstraat 126 2, 2220 Heist-op-den-Berg",4 beds,1 bath,222m2
+192,Flat,"Bisschoppenhoflaan 345 1, 2100 Deurne",4 beds,1 bath,222m2
+167,flat,"Blijvoort 2, 2170 Merksem",4 beds,0,222m2
+499,House,"Hulleweg 2, 9830 Sint-Martens-Latem",4 beds,1 bath,222m2
+149,House,"Stationsstraat 42, 2440 Geel",4 beds,1 bath,222m2
+250,Flat,"Dorpsstraat 50 B, 3945 Kwaadmechelen",4 beds,1 bath,222m2
+278,Flat,"Maisstraat 4 23, 3600 Genk",4 beds,1 bath,222m2
+95,Business,"Maarschalk fochstraat 27, 3970 Leopoldsburg",0,0,222m2
+275,2,"Baron de maerelaan 36, 8380 Zeebrugge",4 beds,0,222m2
+330,House,"Blazoenstraat 10, 9000 Gent",4 beds,1 bath,222m2
+385,House,"Hekstraat 71, 9940 Evergem",4 beds,1 bath,222m2
+195,Flat,"Broederlijke-Weversplein 117 5 I, 9000 Gent",4 beds,0,222m2
+445,House,"Lauwestraat 20, 8930 Rekkem",4 beds,1 bath,222m2
+169,Flat,"Stationslaan 31 301, 8200 Sint-Andries",4 beds,1 bath,222m2
+215,House,"Lodewijk de koninckstraat 22, 2300 Turnhout",4 beds,1 bath,222m2
+645,House,8940 Geluwe,4 beds,0,222m2
+179,3,"Steenweg op mol 96-98, 2300 Turnhout",4 beds,0,222m2
+189,Flat,"Sint-Janstraat 12 5, 3583 Paal",4 beds,1 bath,222m2
+340,House,"Zesde liniestraat 1 N22, 9860 Gijzenzele",4 beds,1 bath,222m2
+355,House,"Langstraat 36, 2260 Tongerlo",4 beds,1 bath,222m2
+330,House,"Nestor de tierestraat 201, 9700 Eine",4 beds,1 bath,222m2
+262,House,"Kerkveldweg 15, 9320 Nieuwerkerken",4 beds,1 bath,0
+324,House,"Oude mechelbaan 18, 2220 Heist-op-den-Berg",4 beds,1 bath,222m2
+309,House,"Pannenhuisstraat 342, 2500 Lier",4 beds,1 bath,222m2
+149,Flat,"Lokerenstraat 114 6, 2300 Turnhout",4 beds,1 bath,222m2
+295,House,"Jean jaurèslaan 9, 9050 Gentbrugge",4 beds,1 bath,222m2
+289,House,"Guido Gezellestraat 32, 8870 Emelgem",4 beds,1 bath,222m2
+342,Industrial,"Striemenbergstraat 11, 9040 Sint-Amandsberg",0,0,222m2
+494,House,"Woestijnegoedlaan 5, 9032 Wondelgem",4 beds,1 bath,222m2
+415,House,"Drongensesteenweg 44, 9000 Gent",4 beds,1 bath,222m2
+465,House,"Montevalstraat 12, 8700 Tielt",4 beds,1 bath,0
+580,Land,"Tuimelaar 7, 9930 Zomergem",0,0,0
+580,House,"Tuimelaar 7, 9930 Zomergem",4 beds,1 bath,0
+175,House,"Rollegemstraat 236, 8880 Rollegem-Kapelle",4 beds,1 bath,222m2
+180,Flat,"Leopold i esplanade 7, 8660 De Panne",4 beds,0,0
+269,House,"Gulden sporenstraat 25, 9900 Eeklo",4 beds,1 bath,222m2
+245,Land,"Middelheersestraat 42, 3870 Heers",0,0,0
+298,House,"Bakkerstraat 58, 9240 Zele",4 beds,1 bath,222m2
+225,House,"Harmoniestraat 8, 9050 Ledeberg",4 beds,1 bath,222m2
+238,House,"Rode kruislaan 168, 3740 Grote-Spouwen",4 beds,1 bath,222m2
+475,House,"Hanepad 11, 2960 Brecht",4 beds,1 bath,222m2
+625,House,1325 Chaumont-Gistoux,4 beds,1 bath,222m2
+810,Investment,"Rue du centre 5, 4257 Berloz",4 beds,1 bath,222m2
+425,House,"Huisgaverstraat 26, 9750 Ouwegem",4 beds,1 bath,0
+268,House,"Winkelomstraat 35 A, 3740 Eigenbilzen",4 beds,1 bath,222m2
+312,house,"Hoekstraat, 3740 Beverst",4 beds,0,222m2
+235,House,"Kachtemsestraat 78, 8800 Roeselare",4 beds,1 bath,222m2
+339,House,"Kalvariebergstraat 16, 2440 Geel",4 beds,1 bath,222m2
+349,Flat,"Dorpsstraat 126 2, 2220 Heist-op-den-Berg",4 beds,1 bath,222m2
+192,Flat,"Bisschoppenhoflaan 345 1, 2100 Deurne",4 beds,1 bath,222m2
+167,flat,"Blijvoort 2, 2170 Merksem",4 beds,0,222m2
+499,House,"Hulleweg 2, 9830 Sint-Martens-Latem",4 beds,1 bath,222m2
+149,House,"Stationsstraat 42, 2440 Geel",4 beds,1 bath,222m2
+250,Flat,"Dorpsstraat 50 B, 3945 Kwaadmechelen",4 beds,1 bath,222m2
+278,Flat,"Maisstraat 4 23, 3600 Genk",4 beds,1 bath,222m2
+95,Business,"Maarschalk fochstraat 27, 3970 Leopoldsburg",0,0,222m2
+275,2,"Baron de maerelaan 36, 8380 Zeebrugge",4 beds,0,222m2
+330,House,"Blazoenstraat 10, 9000 Gent",4 beds,1 bath,222m2
+385,House,"Hekstraat 71, 9940 Evergem",4 beds,1 bath,222m2
+195,Flat,"Broederlijke-Weversplein 117 5 I, 9000 Gent",4 beds,0,222m2
+445,House,"Lauwestraat 20, 8930 Rekkem",4 beds,1 bath,222m2
+169,Flat,"Stationslaan 31 301, 8200 Sint-Andries",4 beds,1 bath,222m2
+215,House,"Lodewijk de koninckstraat 22, 2300 Turnhout",4 beds,1 bath,222m2
+645,House,8940 Geluwe,4 beds,0,222m2
+179,3,"Steenweg op mol 96-98, 2300 Turnhout",4 beds,0,222m2
+189,Flat,"Sint-Janstraat 12 5, 3583 Paal",4 beds,1 bath,222m2
+340,House,"Zesde liniestraat 1 N22, 9860 Gijzenzele",4 beds,1 bath,222m2
+355,House,"Langstraat 36, 2260 Tongerlo",4 beds,1 bath,222m2
+330,House,"Nestor de tierestraat 201, 9700 Eine",4 beds,1 bath,222m2
+262,House,"Kerkveldweg 15, 9320 Nieuwerkerken",4 beds,1 bath,0
+324,House,"Oude mechelbaan 18, 2220 Heist-op-den-Berg",4 beds,1 bath,222m2
+309,House,"Pannenhuisstraat 342, 2500 Lier",4 beds,1 bath,222m2
+149,Flat,"Lokerenstraat 114 6, 2300 Turnhout",4 beds,1 bath,222m2
+295,House,"Jean jaurèslaan 9, 9050 Gentbrugge",4 beds,1 bath,222m2
